@@ -546,3 +546,4 @@ Spent almost $6000 to fly a minister's family to a coastal holiday.
 Proposed an exemption so that internet providers and some other companies are not required to inform customers when their data is stolen by malicious third parties.
 Paid Telstra $80 million to fix the copper network which Telstra sold to the government.
 Refused to allow the family of a terminally ill man to temporarily enter Australia to see their son one last time before he died.
+Told myGov users to downgrade the security on their account when travelling overseas, which is when security risks are highest.
